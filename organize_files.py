@@ -1,4 +1,3 @@
-#CodeRunner
 import os
 import shutil
 
